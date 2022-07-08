@@ -6,7 +6,9 @@
     <meta name="description" content="Put your description here.">
 </head>
 <body>
-    <!-- Use descriptive text for link names-->
-    Check out <a href="…">our newly opened store link</a>!
+    <!-- Use headings in descending order-->
+    <h1>This is the main heading</h1>
+    <h2>This is the sub-heading</h2>
+    <h3>This is the smallest heading</h3>
 </body>
 </html>

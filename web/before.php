@@ -6,6 +6,8 @@
     <meta name="description" content="Put your description here.">
 </head>
 <body>
-    Check out our store! <a href="…"></a>
+    <h1>This is the main heading</h1>
+    <h3>This is the sub-heading</h3>
+    <h5>This is the smallest heading</h5>
 </body>
 </html>
