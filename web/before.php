@@ -6,6 +6,6 @@
     <meta name="description" content="Put your description here.">
 </head>
 <body>
-    Check out our store <a href="…">!</a>
+    Check out our store! <a href="…"></a>
 </body>
 </html>
