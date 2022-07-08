@@ -6,7 +6,7 @@
     <meta name="description" content="Put your description here.">
 </head>
 <body>
-    <!-- Descriptive link text helps search engines understand your content-->
-<p>Check out all of our <a href="videos.html">basketball videos</a>.</p>
+      <!-- Add a alt text to image -->
+      <img alt="A landscape photo of mountains next to ocean" src="wallpaper.jpg">
 </body>
 </html>

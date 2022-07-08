@@ -6,6 +6,5 @@
     <meta name="description" content="Put your description here.">
 </head>
 <body>
-    <p>To see all of our basketball videos, <a href="videos.html">click here</a>.</p>
-</body>
+<img src="wallpaper.jpg"></body>
 </html>
