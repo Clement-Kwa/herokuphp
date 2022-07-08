@@ -6,7 +6,7 @@
     <meta name="description" content="Put your description here.">
 </head>
 <body>
-    <!-- Switch to WebP or AVIF -->
-    <img alt="A landscape photo of mountains next to ocean" src=" img/wallpaper.webp">
+    <!-- Use descriptive text for link names-->
+    Check out <a href="…">our newly opened store link</a>!
 </body>
 </html>

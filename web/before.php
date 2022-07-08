@@ -6,6 +6,6 @@
     <meta name="description" content="Put your description here.">
 </head>
 <body>
-    <img alt="A landscape photo of mountains next to ocean" src=" img/wallpaper.jpg">
+    Check out our store <a href="…">!</a>
 </body>
 </html>
