@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Clement Kwan",
+        "email": "20002694@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
