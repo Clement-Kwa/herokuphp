@@ -6,5 +6,6 @@
     <meta name="description" content="Put your description here.">
 </head>
 <body>
-<img src="wallpaper.jpg"></body>
+    <img alt="A landscape photo of mountains next to ocean" src="wallpaper.jpg">
+</body>
 </html>

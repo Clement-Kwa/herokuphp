@@ -6,7 +6,7 @@
     <meta name="description" content="Put your description here.">
 </head>
 <body>
-      <!-- Add a alt text to image -->
-      <img alt="A landscape photo of mountains next to ocean" src="wallpaper.jpg">
+    <!-- Switch to WebP or AVIF -->
+    <img alt="A landscape photo of mountains next to ocean" src="wallpaper.webp">
 </body>
 </html>
